@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-<img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username={mykallella}&theme=blue-green"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+ 

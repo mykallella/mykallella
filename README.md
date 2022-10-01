@@ -1,5 +1,5 @@
 ### Olá, sou a Myrela 👋
-### Desenvolvedora Front-end Jr. Estudando HTML5, CSS3, Javascript, ReactJS
+### Desenvolvedora Front-end Jr. Em constante estudo das tecnologias HTML5, CSS3, Javascript, ReactJS
 
 
 <img width=50% src="https://github-readme-stats.vercel.app/api?username=mykallella&theme=blue-green"/>

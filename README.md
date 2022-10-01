@@ -1,7 +1,7 @@
 ### Olá, sou a Myrela 👋
 ### Desenvolvedora Front-end Jr.
 <br>
-Sou formada em Ciência da Computação, Técnico em Informática e Técnico em Redes de Computadores.
+Formada em Ciência da Computação, Técnico em Informática e Técnico em Redes de Computadores.
 <br>
 Atualmente estudando as tecnologias HTML5, CSS3, Javascript, ReactJS.
 <br>

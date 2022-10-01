@@ -7,7 +7,7 @@ Formada em Ciência da Computação, Técnico em Informática e Técnico em Rede
 Atualmente estudando as tecnologias HTML5, CSS3, Javascript, ReactJS.
 <br>
 Fiz alguns projetos que podem ser vistos em meu portifólio. (Link logo abaixo)
-
+<br>
 
 <img width=50% src="https://github-readme-stats.vercel.app/api?username=mykallella&theme=blue-green"/>
 <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykallella&theme=blue-green"/>

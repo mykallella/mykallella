@@ -1,14 +1,9 @@
 ### Olá, sou a Myrela 👋
-### Desenvolvedora Front-end Jr.
+### Desenvolvedora Front-end Jr. (HTML5, CSS3, Javascript e ReactJS)
 <br>
-Formada em Ciência da Computação, Técnico em Informática e Técnico em Redes de Computadores.
-<br>
-<br>
-Atualmente estudando as tecnologias HTML5, CSS3, Javascript, ReactJS.
-<br>
-Fiz alguns projetos que podem ser vistos em meu portifólio. (Link logo abaixo)
-<br>
-<br>
+Formação em Ciência da Computação, Técnico em Informática e Técnico em
+Redes de Computadores. 
+
 
 <img width=50% src="https://github-readme-stats.vercel.app/api?username=mykallella&theme=blue-green"/>
 <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykallella&theme=blue-green"/>

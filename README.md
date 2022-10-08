@@ -6,7 +6,7 @@ Redes de Computadores.
 <br>
 Atualmente dedico meu tempo a estudar as tecnologias HTML5, CSS3,
 Javascript e ReactJS com as quais fiz alguns projetos que podem ser vistos em
-meu Github e meu portifólio.
+meu GitHub e meu portifólio.
 <br>
 <br>
 

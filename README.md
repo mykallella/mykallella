@@ -8,7 +8,7 @@ Atualmente dedico meu tempo a estudar as tecnologias HTML5, CSS3,
 Javascript e ReactJS com as quais fiz alguns projetos que podem ser vistos em
 meu Github e meu portifólio.
 <br>
-
+<br>
 
 <img width=50% src="https://github-readme-stats.vercel.app/api?username=mykallella&theme=blue-green"/>
 <img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykallella&theme=blue-green"/>

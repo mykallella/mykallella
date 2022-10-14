@@ -17,7 +17,7 @@ meu GitHub e meu portifólio.
 <br>
 <strong>Gmail: mykallella@gmail.com</strong>
 <br>
-<strong>Linkedin: https://www.linkedin.com/in/myrela-caroline-508802219/</strong>
+<strong>Linkedin: https://www.linkedin.com/in/myrelacaroline</strong>
 <br>
 <br>
 <strong>Portifólio: https://portifolio-sybl.vercel.app/</strong>

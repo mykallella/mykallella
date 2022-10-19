@@ -12,8 +12,9 @@ meu GitHub e meu portifólio.
 
 <br>
 <strong>Portifólio: https://portifolio-sybl.vercel.app/</strong>
-
-<strong>Contatos:</strong>
+<br>
+<strong>Contatos:</strong> 
+<br>
 <strong>Telefone: (12) 992253905</strong>
 <br>
 <strong>Gmail: mykallella@gmail.com</strong>

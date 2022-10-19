@@ -14,7 +14,7 @@ meu GitHub e meu portifólio.
 <strong>Portifólio: https://portifolio-sybl.vercel.app/</strong>
 <br>
 <br>
-<strong>CONTATOS</strong> 
+<strong>CONTATOS:</strong> 
 <br>
 <strong>Telefone: (12) 992253905</strong>
 <br>

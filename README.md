@@ -15,6 +15,7 @@ meu GitHub e meu portifólio.
 <br>
 <strong>Contatos:</strong> 
 <br>
+<br>
 <strong>Telefone: (12) 992253905</strong>
 <br>
 <strong>Gmail: mykallella@gmail.com</strong>

@@ -13,6 +13,7 @@ meu GitHub e meu portifólio.
 <br>
 <strong>Portifólio: https://portifolio-sybl.vercel.app/</strong>
 <br>
+<br>
 <strong>Contatos:</strong> 
 <br>
 <br>

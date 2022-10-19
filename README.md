@@ -18,11 +18,11 @@ https://portifolio-sybl.vercel.app/
 <br>
 <strong>CONTATOS:</strong> 
 <br>
-<strong>(12) 992253905</strong>
+(12) 992253905
 <br>
-<strong>mykallella@gmail.com</strong>
+mykallella@gmail.com
 <br>
-<strong>https://www.linkedin.com/in/myrelacaroline</strong>
+https://www.linkedin.com/in/myrelacaroline
 <br>
 
 

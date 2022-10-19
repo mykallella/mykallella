@@ -11,16 +11,16 @@ meu GitHub e meu portifólio.
 <br>
 
 <br>
-<strong>Portifólio: https://portifolio-sybl.vercel.app/</strong>
+<strong>PORTIFÓLIO: https://portifolio-sybl.vercel.app/</strong>
 <br>
 <br>
 <strong>CONTATOS:</strong> 
 <br>
-<strong>Telefone: (12) 992253905</strong>
+<strong>(12) 992253905</strong>
 <br>
-<strong>Gmail: mykallella@gmail.com</strong>
+<strong>mykallella@gmail.com</strong>
 <br>
-<strong>Linkedin: https://www.linkedin.com/in/myrelacaroline</strong>
+<strong>https://www.linkedin.com/in/myrelacaroline</strong>
 <br>
 
 

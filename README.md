@@ -18,7 +18,7 @@ https://myrela.vercel.app
 <br>
 <strong>CONTATOS:</strong> 
 <br>
-(12) 992253905
+(12) 991711385
 <br>
 mykallella@gmail.com
 <br>

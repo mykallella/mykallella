@@ -1,5 +1,5 @@
 ### Olá, sou a Myrela 👋
-### Anáse de Testes | QA | Desenvolvimento Front-End
+### Análise de Testes | QA | Desenvolvimento Front-End
 <br>
 Formação em Ciência da Computação, Técnico em Informática e Técnico em
 Redes de Computadores.

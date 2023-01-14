@@ -7,11 +7,9 @@ Redes de Computadores.
 Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Front-End.
 <br>
 <br>
-Tecnologias e Ferramentas:
+**Tecnologias e Ferramentas:**
 <br>
-HTML5, CSS3, Javascript, ReactJS, JUnit, Selenium, Postman, Jira
-<br>
-<sub>com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio</sub>
+HTML5, CSS3, Javascript, ReactJS, JUnit, Selenium, Postman, Jira (com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio)
 <br>
 <br>
 

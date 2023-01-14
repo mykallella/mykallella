@@ -9,9 +9,9 @@ Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Front
 <br>
 Tecnologias e Ferramentas:
 <br>
-HTML5, CSS3, Javascript, ReactJS, JUnit, Selenium, Postman 
+HTML5, CSS3, Javascript, ReactJS, JUnit, Selenium, Postman, Jira
 <br>
-_com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio_
+<sub>com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio</sub>
 <br>
 <br>
 

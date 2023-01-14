@@ -5,8 +5,10 @@ Formação em Ciência da Computação, Técnico em Informática e Técnico em
 Redes de Computadores.
 <br>
 Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Front-End.
+<br>
 Tecnologias e Ferramentas:
 HTML5, CSS3, Javascript, ReactJS, JUnit, Selenium, Postman 
+<br>
 * com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio.
 <br>
 <br>

@@ -1,12 +1,13 @@
 ### Olá, sou a Myrela 👋
-### Desenvolvedora Front-end Jr. (HTML5, CSS3, Javascript e ReactJS)
+### Anáse de Testes | QA | Desenvolvimento Front-End
 <br>
 Formação em Ciência da Computação, Técnico em Informática e Técnico em
 Redes de Computadores.
 <br>
-Atualmente dedico meu tempo a estudar as tecnologias HTML5, CSS3,
-Javascript e ReactJS com as quais fiz alguns projetos que podem ser vistos em
-meu GitHub e meu portfólio.
+Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Front-End.
+Tecnologias e Ferramentas:
+HTML5, CSS3, Javascript, ReactJS, JUnit, Selenium, Postman 
+* com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio.
 <br>
 <br>
 

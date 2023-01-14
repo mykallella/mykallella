@@ -11,7 +11,7 @@ Tecnologias e Ferramentas:
 <br>
 HTML5, CSS3, Javascript, ReactJS, JUnit, Selenium, Postman 
 <br>
-* com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio.
+*com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio.*
 <br>
 <br>
 

@@ -9,7 +9,7 @@ Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Front
 <br>
 <strong>Tecnologias e Ferramentas:</strong>
 <br>
-HTML5, CSS3, Javascript ES6+, Git, GitHub, NPM, APIs RESTful, Express.js, ReactJS, Java, JUnit, Allure Framework, Selenium, Json Server, Postman, JMeter, Jira (com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio)
+HTML5 | CSS3 | Javascript ES6+ | Git | GitHub | NPM | API's RESTful | ReactJS | Java | JUnit | Selenium | Postman | JMeter | Jira (com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio)
 <br>
 <br>
 

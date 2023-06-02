@@ -9,7 +9,7 @@ Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Front
 <br>
 <strong>Tecnologias e Ferramentas:</strong>
 <br>
-HTML5 | CSS3 | Javascript | Git | GitHub | NPM | API REST | ReactJS | Java | JUnit | Cypress | Postman | Jmeter | BDD | Jira (com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio)
+HTML5 | CSS3 | Javascript | Git | GitHub | ReactJS | API REST | Java | JUnit | Cypress | Postman | Jmeter | BDD | Jira (com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio)
 <br>
 <br>
 

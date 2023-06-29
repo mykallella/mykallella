@@ -4,7 +4,7 @@
 Formação em Ciência da Computação, Técnico em Informática e Técnico em
 Redes de Computadores.
 <br>
-Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Front-End.
+Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Web.
 <br>
 <br>
 <strong>Tecnologias e Ferramentas:</strong>

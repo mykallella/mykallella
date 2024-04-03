@@ -27,7 +27,7 @@ https://myrela.vercel.app
 mykallella@gmail.com
 <br>
 https://www.linkedin.com/in/myrelacaroline
-<br>
+<br><br>
 <strong>CURRÍCULO: </strong>
 <br>
 https://drive.google.com/file/d/1Hu1cweri7J9eqGdzM8RhxZRbQTOF2xLB/view?usp=sharing

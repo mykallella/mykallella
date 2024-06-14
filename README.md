@@ -22,7 +22,7 @@ https://myrela.vercel.app
 <br><br>
 <strong>CURRÍCULO: </strong>
 <br>
-[https://drive.google.com/file/d/1Hu1cweri7J9eqGdzM8RhxZRbQTOF2xLB/view?usp=sharing](https://drive.google.com/file/d/1jzH1PT-r6cNV1-QxevPzSXeYCMkXfUwT/view](https://drive.google.com/file/d/1jzH1PT-r6cNV1-QxevPzSXeYCMkXfUwT/view?usp=sharing)
+https://drive.google.com/file/d/1jzH1PT-r6cNV1-QxevPzSXeYCMkXfUwT/view?usp=sharing
 <br><br>
 <strong>CONTATOS:</strong> 
 <br>

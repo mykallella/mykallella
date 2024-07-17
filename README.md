@@ -4,7 +4,7 @@
 Graduação em Técnico em Informática, Técnico em Redes de Computadores e Ciência da Computação. 
 <br><br>
 
-Experiência de mais de 10 anos em TI, atuando como Analista de Suporte Técnico, e Analista de Testes e Quality Assurance (QA). Sendo 3 anos na área de testes; experiência em construção de planos e casos de testes, realização de Testes Manuais e desenvolvimento de Testes Automatizados (E2E e API), dentre eles testes exploratórios, funcionais e não-funcionais, de usabilidade, integração e regressão. Utilizando as principais ferramentas e tecnologias do mercado, principalmente Python, Selenium, Postman e JIRA. Perfil colaborativo, analítico e proativo.
+Experiência de 10 anos em TI, atuando como Analista de Suporte Técnico, e Analista de Testes e Quality Assurance (QA). Sendo 3 anos na área de testes; experiência em construção de planos e casos de testes, realização de Testes Manuais e desenvolvimento de Testes Automatizados (E2E e API), dentre eles testes exploratórios, funcionais e não-funcionais, de usabilidade, integração e regressão. Utilizando as principais ferramentas e tecnologias do mercado, principalmente Python, Selenium, Postman e JIRA. Perfil colaborativo, analítico e proativo.
 <br><br>
 
 Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Web.

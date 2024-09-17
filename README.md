@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1jzH1PT-r6cNV1-QxevPzSXeYCMkXfUwT/view?usp=shari
 <br><br>
 <strong>CONTATOS:</strong> 
 <br>
-(12) 991711385
+(12) 982351074
 <br>
 mykallella@gmail.com
 <br>

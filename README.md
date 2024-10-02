@@ -1,6 +1,6 @@
 ### Olá, sou a Myrela 👋
 ### Analista de Testes | Analista de Quality Assurance (QA)
-<br><br>
+<br>
 🏷️ Proficiente em construção de planos e casos de testes, testes manuais e testes automatizados com código limpo e boa arquitetura.
 
 <strong>Tecnologias e Ferramentas:</strong> <br>

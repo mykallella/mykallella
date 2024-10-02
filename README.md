@@ -1,11 +1,10 @@
 ### Olá, sou a Myrela 👋
 ### Analista de Testes | Analista de Quality Assurance (QA)
 <br>
-Graduação em Técnico em Informática, Técnico em Redes de Computadores e Ciência da Computação. 
-<br>
+📚 Graduação em Técnico em Informática, Técnico em Redes de Computadores e Ciência da Computação. 
+<br><br>
 
-Sou Analista de Testes e Quality Assurance (QA) Jr / Pl proficiente em construção de planos e casos de testes, testes manuais e testes automatizados.
-com código limpo e boa arquitetura, utilizando Python, Selenium, Postman, Pytest para execução otimizada e consultas SQL em bancos de dados MySQL.
+🏷️ Sou Analista de Testes e Quality Assurance (QA) Jr / Pl proficiente em construção de planos e casos de testes, testes manuais e testes automatizados com código limpo e boa arquitetura, utilizando Python, Selenium, Postman, Pytest para execução otimizada e consultas SQL em bancos de dados MySQL.
 <br>
 
 Outras tecnologias e ferramentas com as quais tenho experiência: <br>

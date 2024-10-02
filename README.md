@@ -4,33 +4,12 @@
 📚 Graduação em Técnico em Informática, Técnico em Redes de Computadores e Ciência da Computação. 
 <br><br>
 
-🏷️ Proficiente em construção de planos e casos de testes, testes manuais e testes automatizados com código limpo e boa arquitetura, utilizando Python, Selenium, Postman, Pytest para execução otimizada e consultas SQL em bancos de dados MySQL.
-<br>
+🏷️ Proficiente em construção de planos e casos de testes, testes manuais e testes automatizados com código limpo e boa arquitetura.
 
-<strong> Tecnologias e ferramentas com as quais tenho experiência: </strong>
-<br>
-• Python <br>
-• Selenium <br>
-• Postman <br>
-• Pytest <br>
-• SQL <br>
-• BDD (Behavior Driven Development) <br>
-• JIRA (Gerenciamento de tasks) <br>
-• Metodologias ágeis: Scrum e Kanban <br>
-• Gerenciamento dos trabalhos em ambiente de integração contínua CI/CD <br>
-• Git e Github <br>
+<strong>Tecnologias e Ferramentas:</strong> <br>
+Python | Selenium | Postman | API REST | BDD | Cypress | HTML5 | CSS3 | Javascript | Git | GitHub | Jmeter | Jira <br>
+Veja alguns dos meus projetos, logo abaixo!
 
-E estudo avançado nas seguintes: <br>
-• Cypress (e2e | API REST) <br>
-• Page Objects <br>
-• Javascript <br>
-• HTML5 e CSS3 <br>
-• JMeter <br>
-• Linux <br>
-
-<strong>Tecnologias e Ferramentas:</strong>
-<br>
-Python | Selenium | Postman | API REST | BDD | Cypress | HTML5 | CSS3 | Javascript | Git | GitHub | Jmeter | Jira (com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio)
 <br><br>
 
 <strong>PORTFÓLIO: </strong>

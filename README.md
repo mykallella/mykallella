@@ -27,7 +27,6 @@ E estudo avançado nas seguintes: <br>
 Python | Selenium | Postman | API REST | BDD | Cypress | HTML5 | CSS3 | Javascript | Git | GitHub | Jmeter | Jira (com as quais fiz alguns projetos que podem ser vistos em meu GitHub e meu portfólio)
 <br><br>
 
-<br>
 <strong>PORTFÓLIO: </strong>
 <br>
 https://myrela.vercel.app

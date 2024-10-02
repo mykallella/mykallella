@@ -6,15 +6,13 @@ Sou proficiente em construção de planos e casos de testes, testes manuais e te
 <strong>Tecnologias e Ferramentas:</strong> <br>
 Python | Selenium | Postman | API REST | BDD | Cypress | HTML5 | CSS3 | Javascript | Git | GitHub | Jmeter | Jira <br><br>
 
-<strong>CONTATOS:</strong> <br>
+<strong>Contatos:</strong> <br>
 (12) 982351074 <br>
 mykallella@gmail.com <br>
 https://www.linkedin.com/in/myrelacaroline <br>
 
-<strong>CURRÍCULO: </strong> <br>
+<strong>Currículo: </strong> <br>
 https://drive.google.com/file/d/1jzH1PT-r6cNV1-QxevPzSXeYCMkXfUwT/view?usp=sharing <br>
 
-<strong>PORTFÓLIO: </strong> <br>
+<strong>Portfólio: </strong> <br>
 https://myrela.vercel.app <br>
-
-

@@ -4,7 +4,25 @@
 Graduação em Técnico em Informática, Técnico em Redes de Computadores e Ciência da Computação. 
 <br><br>
 
-Experiência de 10 anos em TI, atuando como Analista de Suporte Técnico, e Analista de Testes e Quality Assurance (QA). Sendo 3 anos na área de testes; experiência em construção de planos e casos de testes, realização de Testes Manuais e desenvolvimento de Testes Automatizados (E2E e API), dentre eles testes exploratórios, funcionais e não-funcionais, de usabilidade, integração e regressão. Utilizando as principais ferramentas e tecnologias do mercado, principalmente Python, Selenium, Postman e JIRA. Perfil colaborativo, analítico e proativo.
+Sou Analista de Testes e Quality Assurance (QA) Jr / Pl proficiente em construção de planos e casos de testes, testes manuais e testes automatizados.
+com código limpo e boa arquitetura, utilizando Python, Selenium, Postman, Pytest para execução otimizada e consultas SQL em bancos de dados MySQL.
+<br><br>
+
+Outras tecnologias e ferramentas com as quais tenho experiência:
+• BDD (Behavior Driven Development)
+• JIRA (Gerenciamento de tasks) 
+• Metodologias ágeis: Scrum e Kanban 
+• Gerenciamento dos trabalhos em ambiente de integração contínua CI/CD
+• Git e Github 
+<br><br>
+
+E estudo avançado nas seguintes:
+• Cypress (e2e | API REST)
+• Page Objects 
+• Javascript 
+• HTML5 e CSS3 
+• JMeter 
+• Linux
 <br><br>
 
 Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Web.

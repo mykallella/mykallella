@@ -6,9 +6,9 @@ Graduação em Técnico em Informática, Técnico em Redes de Computadores e Ci�
 
 Sou Analista de Testes e Quality Assurance (QA) Jr / Pl proficiente em construção de planos e casos de testes, testes manuais e testes automatizados.
 com código limpo e boa arquitetura, utilizando Python, Selenium, Postman, Pytest para execução otimizada e consultas SQL em bancos de dados MySQL.
-<br><br>
+<br>
 
-Outras tecnologias e ferramentas com as quais tenho experiência:
+Outras tecnologias e ferramentas com as quais tenho experiência: <br>
 • BDD (Behavior Driven Development)
 • JIRA (Gerenciamento de tasks) 
 • Metodologias ágeis: Scrum e Kanban 
@@ -16,7 +16,7 @@ Outras tecnologias e ferramentas com as quais tenho experiência:
 • Git e Github 
 <br><br>
 
-E estudo avançado nas seguintes:
+E estudo avançado nas seguintes: <br>
 • Cypress (e2e | API REST)
 • Page Objects 
 • Javascript 

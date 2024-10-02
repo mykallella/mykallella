@@ -1,13 +1,11 @@
 ### Olá, sou a Myrela 👋
 ### Analista de Testes | Analista de Quality Assurance (QA)
 <br>
-🏷️ Proficiente em construção de planos e casos de testes, testes manuais e testes automatizados com código limpo e boa arquitetura. 
-<br><br>
+🏷️ Proficiente em construção de planos e casos de testes, testes manuais e testes automatizados com código limpo e boa arquitetura. <br><br>
 
 <strong>Tecnologias e Ferramentas:</strong> <br>
-Python | Selenium | Postman | API REST | BDD | Cypress | HTML5 | CSS3 | Javascript | Git | GitHub | Jmeter | Jira <br>
-Veja alguns dos meus projetos, logo abaixo!
-<br>
+Python | Selenium | Postman | API REST | BDD | Cypress | HTML5 | CSS3 | Javascript | Git | GitHub | Jmeter | Jira <br><br>
+Veja alguns dos meus projetos, logo abaixo! <br>
 
 <strong>PORTFÓLIO: </strong>
 <br>

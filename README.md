@@ -9,20 +9,20 @@ com código limpo e boa arquitetura, utilizando Python, Selenium, Postman, Pytes
 <br>
 
 Outras tecnologias e ferramentas com as quais tenho experiência: <br>
-• BDD (Behavior Driven Development)
-• JIRA (Gerenciamento de tasks) 
-• Metodologias ágeis: Scrum e Kanban 
-• Gerenciamento dos trabalhos em ambiente de integração contínua CI/CD
-• Git e Github 
+• BDD (Behavior Driven Development) <br>
+• JIRA (Gerenciamento de tasks) <br>
+• Metodologias ágeis: Scrum e Kanban <br>
+• Gerenciamento dos trabalhos em ambiente de integração contínua CI/CD <br>
+• Git e Github <br>
 <br><br>
 
 E estudo avançado nas seguintes: <br>
-• Cypress (e2e | API REST)
-• Page Objects 
-• Javascript 
-• HTML5 e CSS3 
-• JMeter 
-• Linux
+• Cypress (e2e | API REST) <br>
+• Page Objects <br>
+• Javascript <br>
+• HTML5 e CSS3 <br>
+• JMeter <br>
+• Linux <br>
 <br><br>
 
 Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Web.

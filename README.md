@@ -7,7 +7,7 @@
 🏷️ Proficiente em construção de planos e casos de testes, testes manuais e testes automatizados com código limpo e boa arquitetura, utilizando Python, Selenium, Postman, Pytest para execução otimizada e consultas SQL em bancos de dados MySQL.
 <br>
 
-<strong> Tecnologias e ferramentas com as quais tenho experiência: <strong>
+<strong> Tecnologias e ferramentas com as quais tenho experiência: </strong>
 <br>
 • Python <br>
 • Selenium <br>

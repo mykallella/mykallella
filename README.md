@@ -6,8 +6,7 @@
 <strong>Tecnologias e Ferramentas:</strong> <br>
 Python | Selenium | Postman | API REST | BDD | Cypress | HTML5 | CSS3 | Javascript | Git | GitHub | Jmeter | Jira <br>
 Veja alguns dos meus projetos, logo abaixo!
-
-<br><br>
+<br>
 
 <strong>PORTFÓLIO: </strong>
 <br>

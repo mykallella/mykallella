@@ -2,7 +2,7 @@
 ### Analista de Testes | Analista de Quality Assurance (QA)
 <br>
 Graduação em Técnico em Informática, Técnico em Redes de Computadores e Ciência da Computação. 
-<br><br>
+<br>
 
 Sou Analista de Testes e Quality Assurance (QA) Jr / Pl proficiente em construção de planos e casos de testes, testes manuais e testes automatizados.
 com código limpo e boa arquitetura, utilizando Python, Selenium, Postman, Pytest para execução otimizada e consultas SQL em bancos de dados MySQL.
@@ -23,10 +23,7 @@ E estudo avançado nas seguintes: <br>
 • HTML5 e CSS3 <br>
 • JMeter <br>
 • Linux <br>
-<br><br>
-
-Atualmente dedico meu tempo a estudar Análise de Testes e Desenvolvimento Web.
-<br><br>
+<br>
 
 <strong>Tecnologias e Ferramentas:</strong>
 <br>

@@ -13,7 +13,6 @@ Outras tecnologias e ferramentas com as quais tenho experiência: <br>
 • Metodologias ágeis: Scrum e Kanban <br>
 • Gerenciamento dos trabalhos em ambiente de integração contínua CI/CD <br>
 • Git e Github <br>
-<br>
 
 E estudo avançado nas seguintes: <br>
 • Cypress (e2e | API REST) <br>
@@ -22,7 +21,6 @@ E estudo avançado nas seguintes: <br>
 • HTML5 e CSS3 <br>
 • JMeter <br>
 • Linux <br>
-<br>
 
 <strong>Tecnologias e Ferramentas:</strong>
 <br>

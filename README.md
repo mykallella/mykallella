@@ -9,12 +9,12 @@ Python | Selenium | Postman | API REST | BDD | Cypress | HTML5 | CSS3 | Javascri
 <strong>CONTATOS:</strong> <br>
 (12) 982351074 <br>
 mykallella@gmail.com <br>
-https://www.linkedin.com/in/myrelacaroline <br><br>
+https://www.linkedin.com/in/myrelacaroline <br>
 
 <strong>CURRÍCULO: </strong> <br>
-https://drive.google.com/file/d/1jzH1PT-r6cNV1-QxevPzSXeYCMkXfUwT/view?usp=sharing <br><br>
+https://drive.google.com/file/d/1jzH1PT-r6cNV1-QxevPzSXeYCMkXfUwT/view?usp=sharing <br>
 
 <strong>PORTFÓLIO: </strong> <br>
-https://myrela.vercel.app <br><br>
+https://myrela.vercel.app <br>
 
 
